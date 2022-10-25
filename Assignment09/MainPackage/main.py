@@ -1,6 +1,6 @@
 '''
 Name: Group Balin: Matthew Hall, Joshua Earley, Sarah Zimmer, Alex Haban
-email: hall4mj@ucmail.uc.edu, earleyja@mail.uc.edu
+email: hall4mj@ucmail.uc.edu, earleyja@mail.uc.edu, zimmese@mail.uc.edu
 Assignment: Assignment 09
 Course: IS 4010
 Semester/Year: Fall 2022
@@ -25,3 +25,4 @@ concession.setpattynumber(0) # shows that the non dunder method works
 concession.setpattynumber(3) # putting something the if/else will accept
 
 print(concession.__repr__())
+
