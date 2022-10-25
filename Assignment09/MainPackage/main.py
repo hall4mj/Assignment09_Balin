@@ -1,6 +1,6 @@
 '''
-Name: Group Balin
-email: hall4mj@ucmail.uc.edu earleyja@mail.uc.edu
+Name: Group Balin: Matthew Hall, Joshua Earley, Sarah Zimmer, Alex Haban
+email: hall4mj@ucmail.uc.edu, earleyja@mail.uc.edu
 Assignment: Assignment 09
 Course: IS 4010
 Semester/Year: Fall 2022

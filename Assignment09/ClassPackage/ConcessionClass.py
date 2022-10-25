@@ -1,5 +1,5 @@
 '''
-Name: Group Balin
+Name:Joshua Earley (Group Balin)
 email:earleyja@mail.uc.edu
 Assignment: Assignment 09
 Course: IS 4010
@@ -12,14 +12,17 @@ class Hamburger(): # Creating a class based on an object in the real world that 
     def __init__(self, cheese, pattynumber): 
         self.cheese = cheese
         self.pattynumber = pattynumber
-         
         
-    def setpattynumber(self, pattynumber):
+    def get_pattie(self): # getter method       
+        return self.pattienumber
+    
+         
+    def setpattynumber(self, pattynumber): # setter method 
         self.validatePatty(pattynumber)
         
-    def validatePatty(self, pattynumber): # this non dunder method checks to make sure the patty is no less than 1 
+    def validatePatty(self, pattynumber): # this method checks to make sure the patty is no less than 1 
         if pattynumber<1:
-            print(" What are you, vegan? ")
+            print(" You cannot have a grilled cheese, sir. ")
         else:
             self.pattynumber = pattynumber
             
@@ -27,7 +30,7 @@ class Hamburger(): # Creating a class based on an object in the real world that 
             
             
     def __repr__(self):
-        return " The number of patties on your order: " + str(self.pattynumber)
+        return " You ordered " + str(self.pattynumber) + " patties on your burger"
     
     def __str__(self):
-        return " You ordered " + self.cheese + " on your burger. "
+        return " And your cheese selection was " + self.cheese 
