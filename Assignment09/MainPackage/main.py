@@ -1,6 +1,6 @@
 '''
 Name: Group Balin
-email: hall4mj@ucmail.uc.edu ADD YOUR EMAILS HERE!
+email: hall4mj@ucmail.uc.edu earleyja@mail.uc.edu
 Assignment: Assignment 09
 Course: IS 4010
 Semester/Year: Fall 2022
