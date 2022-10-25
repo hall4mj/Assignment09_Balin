@@ -1,5 +1,13 @@
 '''
-Sarah Zimmer
+Name: Sarah Zimmer (Group Balin)
+email:zimmese@mail.uc.edu
+Assignment: Assignment09
+Course: IS 4010
+Semester/Year: Fall 2022
+Brief Description: This project demonstrates that we can collaborate on a project using github and know how to use Object Oriented programming.
+Citations:
+Anything else that's relevant:
+
 Purpose: Model inventory at the Cincinnati Bengals merchandise store
 '''
 class Jerseys:
