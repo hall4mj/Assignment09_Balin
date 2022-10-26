@@ -9,7 +9,7 @@ Citations:
 Anything else that's relevant:
 '''
 from ClassPackage.ConcessionClass import *
-from ClassPackage.CarClass import *
+from CarPackage.CarClass import *
 from InventoryPackage.Inventory import *
 
 
